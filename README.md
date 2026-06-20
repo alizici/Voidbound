@@ -96,7 +96,7 @@ Email **alizi6969@gmail.com** with:
 
 ## Privacy
 
-See the [Privacy Policy](./privacy.md) — short version: we collect nothing.
+See the [Privacy Policy](./Privacy%20Policy.md) — short version: we collect nothing.
 
 ---
 
@@ -172,4 +172,4 @@ Hayır. Voidbound tek oyuncu.
 
 ## Gizlilik
 
-[Gizlilik Politikası](./privacy.md) — kısa hâli: hiçbir şey toplamıyoruz.
+[Gizlilik Politikası](./Privacy%20Policy.md) — kısa hâli: hiçbir şey toplamıyoruz.
